@@ -1,8 +1,14 @@
 # ETE-Medical-Chatbot-Gen-AI
 
 //End-to-end-Medical-Chatbot-using-Llama2
+
+
 How to run?
+
+
 STEPS:
+
+
 Clone the repository
 
 Project repo: https://github.com/
