@@ -16,9 +16,15 @@ PINECONE_API_ENV = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 Techstack Used:
 Python
+
 LangChain
+
 Flask
+
 OpenAI
+
 Pinecone
+
 Github
+
 AWS/Simple/CICD
