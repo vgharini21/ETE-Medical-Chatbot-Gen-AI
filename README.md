@@ -18,5 +18,7 @@ Techstack Used:
 Python
 LangChain
 Flask
-Meta Llama2
+OpenAI
 Pinecone
+Github
+AWS/Simple/CICD
